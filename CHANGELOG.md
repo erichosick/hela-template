@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.5.0](https://github.com/erichosick/hela-template/compare/v1.4.0...v1.5.0) (2024-01-23)
+
+
+### Features
+
+* **setup:** git hooks with husky ([2be6c5f](https://github.com/erichosick/hela-template/commit/2be6c5f5fd8f5583eb8335a21f6b91bb71dfaf53)), closes [#6](https://github.com/erichosick/hela-template/issues/6)
+
 ## [1.4.0](https://github.com/erichosick/hela-template/compare/v1.3.0...v1.4.0) (2024-01-23)
 
 
