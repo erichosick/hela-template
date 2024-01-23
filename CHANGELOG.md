@@ -2,6 +2,13 @@
 
 All notable changes to this project will be documented in this file. See [standard-version](https://github.com/conventional-changelog/standard-version) for commit guidelines.
 
+## [1.3.0](https://github.com/erichosick/hela-template/compare/v1.2.0...v1.3.0) (2024-01-23)
+
+
+### Features
+
+* **setup:** create gitignore file with focus on node, pnpm and mac OS ([a3fe47a](https://github.com/erichosick/hela-template/commit/a3fe47acc082b8a6f1a3e3ddd4254879e90158fb)), closes [#4](https://github.com/erichosick/hela-template/issues/4)
+
 ## [1.2.0](https://github.com/erichosick/hela-template/compare/v1.1.0...v1.2.0) (2024-01-23)
 
 
